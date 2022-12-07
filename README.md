@@ -1,42 +1,4 @@
-```js
-class Knaveshu {
-  constructor(...options) {
-    this.height = "1.83"
-    this.weight = "64 :P"
-    this.type = "human"
-    this.job = "developer"
-    this.sex = "male"
-  }
-}
-
-class CreateMan extends Knaveshu {
-  constructor(...options) {
-    super(options);
-  }
-  
-  private _eating() {
-    void "eating 🍔 🍟 🍗 🥤"
-  }
-  
-  private _coding() {
-    void "coding... ❤️"
-  }
-  
-  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
-  
-  async createDay() {
-    this._eating()
-    this._coding()
-    await this._sleep(18000000)
-    
-    this.createDay()
-  }
-  
-}
-
-let Knaveshu = new CreateMan()
-Knaveshu.createDay();
-```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/718150737875435521?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/718150737875435521)
 <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/919085098660425728?hideDiscrim=true)](https://discord.com/users/919085098660425728)
@@ -77,7 +39,6 @@ Knaveshu.createDay();
 </a>
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/971307007728549918?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/971307007728549918)
 
 
 <h3>🌟 Contacts!</h3>
