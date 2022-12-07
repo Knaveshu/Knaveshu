@@ -77,9 +77,7 @@ Knaveshu.createDay();
 </a>
 
 
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Knaveshu&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/971307007728549918?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/971307007728549918)
 
 
 <h3>🌟 Contacts!</h3>
