@@ -1,6 +1,13 @@
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/Knaveshu?label=follow&style=social)](https://github.com/Knaveshu)&nbsp;
 <a href="https://instagram.com/knaveshu"><img src="https://img.shields.io/badge/@knaveshu-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+<h3>🌟 Contacts!</h3>
+<p align="center">
+ <a href="[https://open.spotify.com/user/xryp4xg3imyctiaxxltzq4bvj](https://open.spotify.com/user/xryp4xg3imyctiaxxltzq4bvj)" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+      <a href="https://discord.gg/knave" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+</p>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/718150737875435521)](https://discord.com/users/718150737875435521)
 
 <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
@@ -36,11 +43,3 @@
 
 
 
-<h3>🌟 Contacts!</h3>
-<p align="center">
-     <a href="https://www.instagram.com/knaveshu" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-       <a href="https://twitch.tv/knavexdd" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
- <a href="https://open.spotify.com/user/xryp4xg3imyctiaxxltzq4bvj" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-      <a href="https://discord.com/users/919085098660425728" target"blank_"><img src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-</p>
