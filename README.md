@@ -1,8 +1,8 @@
 ```js
 class Knaveshu {
   constructor(...options) {
-    this.height = "1.81"
-    this.weight = "59 :P"
+    this.height = "1.83"
+    this.weight = "64 :P"
     this.type = "human"
     this.job = "developer"
     this.sex = "male"
