@@ -1,4 +1,4 @@
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/Knaveshu?label=follow&style=social)](https://github.com/Knaveshu)&nbsp;
+[![GitHub Knaveshu](https://img.shields.io/github/followers/Knaveshu?label=follow&style=social)](https://github.com/Knaveshu)&nbsp;
 <a href="https://instagram.com/knaveshu"><img src="https://img.shields.io/badge/@knaveshu-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 <h3>🌟 Contacts!</h3>
