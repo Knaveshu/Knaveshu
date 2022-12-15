@@ -8,7 +8,7 @@
 
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/718150737875435521)](https://discord.com/users/718150737875435521)
+[![Discord Presence](https://lanyard.cnrad.dev/api/754021977919848499)](https://discord.com/users/754021977919848499)
 
 <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
 
