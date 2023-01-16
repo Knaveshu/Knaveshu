@@ -3,9 +3,9 @@
 
 <h3>🌟 Contacts!</h3>
 <p align="center">
- <a href="[[https://open.spotify.com/user/xryp4xg3imyctiaxxltzq4bvj](https://open.spotify.com/artist/6qZjuIhb91SR2Q3HhpbM0H)]([https://open.spotify.com/user/xryp4xg3imyctiaxxltzq4bvj](https://open.spotify.com/artist/6qZjuIhb91SR2Q3HhpbM0H))" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
       <a href="https://instagram.com/knaveshu" target"blank_"><img src="https://img.shields.io/badge/instagram-ffbb00?style=for-the-badge&logo=instagram&logoColor=white"></a>
-
+ 
+      <a href="https://open.spotify.com/artist/6qZjuIhb91SR2Q3HhpbM0H" target"blank_"><img src="https://img.shields.io/badge/spotify-ffbb00?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/754021977919848499)](https://discord.com/users/754021977919848499)
