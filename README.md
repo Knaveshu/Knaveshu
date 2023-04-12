@@ -8,6 +8,9 @@
 <p align="center">
       <a href="https://instagram.com/knaveshu" target"blank_"><img src="https://img.shields.io/badge/instagram-ffbb00?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
+      https://spotify-github-profile.vercel.app/api/view?uid=31347f3dfpbdyqjus3kaqptzrvye&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true
+
+      
 [![Discord Presence](https://lanyard.cnrad.dev/api/754021977919848499)](https://discord.com/users/754021977919848499)
 
 <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
