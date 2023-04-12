@@ -8,8 +8,10 @@
 <p align="center">
       <a href="https://instagram.com/knaveshu" target"blank_"><img src="https://img.shields.io/badge/instagram-ffbb00?style=for-the-badge&logo=instagram&logoColor=white"></a>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31347f3dfpbdyqjus3kaqptzrvye&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31347f3dfpbdyqjus3kaqptzrvye&redirect=true)
-      
+ <p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31347f3dfpbdyqjus3kaqptzrvye&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/754021977919848499)](https://discord.com/users/754021977919848499)
 
 <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
