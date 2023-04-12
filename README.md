@@ -8,7 +8,7 @@
   <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31347f3dfpbdyqjus3kaqptzrvye&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Knaveshu&label=Ziyaretçi%20Sayısı&color=552b75" alt="Knaveshu" /> <p>
 
 ## 🔧 Languages
 - 💻 &nbsp;
